@@ -1,4 +1,4 @@
-# FilmesEmCartaz
+# Filmes Em Cartaz
 Mini projeto consumindo dados de uma api de filmes.
 
 # Para utilizar
